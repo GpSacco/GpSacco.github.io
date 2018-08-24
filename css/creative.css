@@ -54,6 +54,10 @@ section {
   padding: 8rem 0;
 }
 
+services{
+    background-color: #40F0AE;
+}
+
 .section-heading {
   margin-top: 0;
 }
